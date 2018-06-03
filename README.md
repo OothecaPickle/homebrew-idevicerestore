@@ -1,16 +1,16 @@
-homebrew-websocketpp
+homebrew-idevicerestore
 ====================
 
-Thanks to [websocketpp](https://github.com/zaphoyd/websocketpp "C++/Boost Asio based websocket client/server library")
+[idevicerestore project](https://github.com/libimobiledevice/idevicerestore "Restore/upgrade firmware of iOS devices")
 
 Usage.
 -----------------
 ``` bash
-brew tap david-icracked/homebrew-websocketpp
-brew install websocketpp
+brew tap OothecaPickle/homebrew-idevicerestore
+brew install idevicerestore
 ```
 
 Code.
 -----------------
-[Docs](http://www.zaphoyd.com/websocketpp)
+[Docs](http://www.libimobiledevice.org)
 
